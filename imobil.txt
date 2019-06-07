@@ -3,7 +3,7 @@
 [Update]
 Name = IMOBIL
 ProductVersion = 1.0.7
-URL = https://github.com/precisaosistemas/imobil/releases/download/v1.0.7/imobil.msi
+URL = https://github.com/precisaosistemas/imobil/releases/download/v1.0.7/imobil-1.0.7.msi
 Size = 9674752
 MD5 = c492192103fc613c8f5cb1953f04d235
 CommandLine = /exenoui /qn
